@@ -6,6 +6,9 @@ Este repositório contém o código e a documentação relacionados ao projeto d
 
 O objetivo principal deste projeto é avaliar duas formas distintas de monitoramento de redes SDN e comparar suas métricas de desempenho, como atraso (delay), perda de pacotes (loss) e throughput. O projeto também explora a complexidade e as vantagens de cada método.
 
+### Topologia utilizada
+![Topologia de Rede](https://github.com/fran-olv/monitoramentoSDN-tcc/blob/master/exercises/topologia.png)
+
 ## Explicação dos Diretórios e Arquivos Mais relevantes para as técnicas
 
 ### Explicação dos Diretórios e Arquivos
@@ -26,7 +29,6 @@ O objetivo principal deste projeto é avaliar duas formas distintas de monitoram
 
 Esta estrutura organiza os arquivos de forma que você possa encontrar facilmente os scripts, configurações e documentação necessários para o projeto.
 
-![Topologia de Rede](https://github.com/fran-olv/monitoramentoSDN-tcc/blob/master/exercises/topologia.png)
 
 ```
 monitoramentoSDN-tcc/
