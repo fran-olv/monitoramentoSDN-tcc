@@ -26,6 +26,8 @@ O objetivo principal deste projeto é avaliar duas formas distintas de monitoram
 
 Esta estrutura organiza os arquivos de forma que você possa encontrar facilmente os scripts, configurações e documentação necessários para o projeto.
 
+![Topologia de Rede](https://github.com/fran-olv/monitoramentoSDN-tcc/blob/master/exercises/topologia.png)
+
 ```
 monitoramentoSDN-tcc/
 ├── exercises
