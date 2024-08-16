@@ -26,7 +26,7 @@ O objetivo principal deste projeto é avaliar duas formas distintas de monitoram
 
 Esta estrutura organiza os arquivos de forma que você possa encontrar facilmente os scripts, configurações e documentação necessários para o projeto.
 
-
+```
 monitoramentoSDN-tcc/
 ├── exercises
 │ ├── link_monitor
@@ -78,4 +78,4 @@ monitoramentoSDN-tcc/
 │ └── run_exercise.py # Script para execução de exercícios
 ├── clean.sh # Script para limpeza do ambiente
 ├── p4_16-mode.el # Configuração do modo P4-16 para Emacs
-├── p4-logo.png # Logo do P4
+```
